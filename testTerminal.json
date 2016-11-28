@@ -1,0 +1,11 @@
+{"name":"Terminal","type":"div","content":[
+	{"name":"main_drive","type":"div","content":[
+		{"name":"programs","type":"div","content":[
+			{"name":"testProgram.exe","type":"exe","content":"resource/testLevel/testProgram.js"}
+		]},
+	
+		{"name":"logs","type":"div","content":[
+			{"name":"testFile.txt","type":"txt","content":"------------------------------\nThis is a test file.\nfollowed by another line?\n \n \n \n \n \nAnother line!\n------------------------------\nEnd of log"}
+		]}
+	]}
+]}

@@ -1,0 +1,7 @@
+{"name":"Terminal","type":"div","content":[
+	{"name":"main_drive","type":"div","content":[
+		{"name":"grout","type":"div","content":[
+			{"name":"my_identity.txt","type":"txt","content":"I am grout.\nThat is all."}
+		]}
+	]}
+]}
